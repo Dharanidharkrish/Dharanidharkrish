@@ -21,6 +21,14 @@ pipeline
         script
         {
           println(GIT_URL)
+          println(GIT_COMMIT)
+          println(GIT_COMMITTER_NAME)
+          println(GIT_URL_N)
+          println(GIT_BRANCH)
+          println(GIT_LOCAL_BRANCH)
+          println(GIT_PREVIOUS_COMMIT)
+          println(GIT_PREVIOUS_SUCCESSFUL_COMMIT)
+          println(GIT_URL)
         }
       }
     }
