@@ -7,6 +7,10 @@ pipeline
       label 'Local'
     }
   }
+  environment
+  {
+      GIT_URL = "${GIT_URL }"
+  }
   // testing
   stages
   {
@@ -16,7 +20,7 @@ pipeline
       {
         script
         {
-          println(payload)
+          println(GIT_URL)
         }
       }
     }
