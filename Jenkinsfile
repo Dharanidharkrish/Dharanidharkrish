@@ -7,7 +7,7 @@ pipeline
       label 'Local'
     }
   }
-  // testing payload
+  // testing payloads
   stages
   {
     stage('TEST')
