@@ -22,8 +22,6 @@ pipeline
         {
           println(GIT_URL)
           println(GIT_COMMIT)
-          println(GIT_AUTHOR_NAME)
-          println(GIT_URL_N)
           println(GIT_BRANCH)
           println(GIT_LOCAL_BRANCH)
           println(GIT_PREVIOUS_COMMIT)
