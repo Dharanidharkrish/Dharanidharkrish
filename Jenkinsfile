@@ -1,5 +1,6 @@
 parameters {
-        string(defaultValue: "123", description: 'This is a parameter', name: 'PARAMETER01')}
+        string(defaultValue: "", description: 'This is a payload parameter', name: 'payload')}
+
 pipeline
 {
   agent
