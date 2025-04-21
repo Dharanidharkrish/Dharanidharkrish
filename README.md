@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dharanidhar
-- 👀 I’m interested in Playign with new things
+- 👀 I’m interested in Playing with new things
 - 🌱 I’m currently working as a Devops Engineer in Wipro Technologies.
 
 <!---
